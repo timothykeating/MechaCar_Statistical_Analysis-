@@ -21,6 +21,15 @@ Lot1 and Lot2 meet the variance specification, but Lot3 does not.  See this Lot3
 
 
 ## Deliverable 3: T-Test on Suspension Coils
+Across all Manufacturing Lots, the mean PSI is shown to be 1498.78, not 1500 -->
+![Image](Resources/tt1.png)
+
+For Manufacturing Lot 1, we found that the mean PSI was 1500.  
+For Manufacturing Lot 2, we found that the mean PSI was 1500.2.  
+For Manufacturing Lot 3, we found that the mean PSI was 1496.14.  
+![Image](Resources/tt3.png)
+
 
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+
 
