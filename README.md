@@ -31,5 +31,8 @@ For Manufacturing Lot 3, we found that the mean PSI was 1496.14.
 
 
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
-
-
+Here is a design of a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+I would test the metrics of Vehicle Length and Ground Clearance, since they were proven to be significant attributes to the mpg of a given car.
+The alternative hypothesis is that these metrics are not significant.
+I would use a multiple linear regression to test my hypothesis, because we have two continuous variables.
+The additional data needed to run the test would be data from other manufacturers about their cars.
